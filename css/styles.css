@@ -1,8 +1,11 @@
-body {
-  font-family: sans-serif;
+.intro {
+  font-size: 45px;
 }
 
-.intro {
-  font-size: 40px;
-  font-family: sans-serif;
+.welcome {
+  font-size: 25px;
+}
+
+body {
+  background-color: lightblue;
 }
