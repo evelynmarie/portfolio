@@ -1,5 +1,6 @@
 .intro {
-  font-size: 45px;
+  font-size: 40px;
+  font-family: georgia;
 }
 
 .welcome {
@@ -8,4 +9,8 @@
 
 body {
   background-color: lightblue;
+}
+
+img {
+  border-radius: 50%;
 }
