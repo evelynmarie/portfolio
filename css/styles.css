@@ -14,3 +14,15 @@ body {
 img {
   border-radius: 50%;
 }
+
+.contact {
+  margin: 5px;
+  padding: 5px;
+  border: 10px solid grey;
+  float: right;
+  width: 300px;
+}
+
+.phone {
+  font-style: italic;
+}
