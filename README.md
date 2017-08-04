@@ -28,4 +28,4 @@ _Contact Evelyn for support_
 
 ### License
 
-Copyright (c) 2017 **_{Evelyn Fenner-Dorrity_**
+Copyright (c) 2017 **_Evelyn Fenner-Dorrity_**
