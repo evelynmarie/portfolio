@@ -18,11 +18,31 @@ img {
 .contact {
   margin: 5px;
   padding: 5px;
-  border: 10px solid grey;
+  border: 10px dotted grey;
   float: right;
-  width: 300px;
+  width: 200px;
+}
+
+.contact p {
+  font-weight: bold;
 }
 
 .phone {
   font-style: italic;
+}
+
+.copyright {
+  margin: 5px;
+  padding: 5px;
+  border: 10px dotted white;
+  float: right;
+  width: 200px;
+}
+
+.copyright p {
+  font-weight: bold;
+}
+
+.resize {
+  width: 20%;
 }
