@@ -10,7 +10,9 @@ _This is Evelyn's portfolio landing page, which includes details about her educa
 
 ## Setup/Installation Requirements
 
+* _Clone repository_
 * _Open index.html_
+* _Or, open with [GH Pages](https://evelynmarie.github.io/portfolio)_
 
 ## Known Bugs
 
